@@ -1,0 +1,23 @@
+Survived,Sex,Pclass,age_class,Count of PassengerId
+No,female,A,A,1
+No,female,A,B,1
+No,female,A,C,1
+No,female,B,B,4
+No,female,B,C,2
+No,female,C,,17
+No,female,C,A,21
+No,female,C,B,25
+No,female,C,C,9
+Yes,female,A,,9
+Yes,female,A,A,13
+Yes,female,A,B,42
+Yes,female,A,C,24
+Yes,female,A,D,3
+Yes,female,B,,2
+Yes,female,B,A,16
+Yes,female,B,B,38
+Yes,female,B,C,14
+Yes,female,C,,27
+Yes,female,C,A,22
+Yes,female,C,B,22
+Yes,female,C,D,1
